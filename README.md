@@ -6,6 +6,7 @@ product sales and refund insights, and user behavior segmentation.
 All work is done using MySQL to answer key business questions and optimize marketing strategies.
 
 📁 Project Structure
+
 sql_queries/
   ├── Analyzing Top Traffic Sources.sql
   ├── AnalyzingWebsitePerformence.sql
@@ -15,6 +16,7 @@ sql_queries/
   └── User Analysis
   
 📌 Key Skills Practiced
+
 •	**Advanced SQL Queries**: Complex aggregations, filtering with `CASE WHEN`, time-based grouping (monthly, weekly, hourly).
 
 •	**Conversion Funnel Analysis**: Built multi-step user funnels using session and pageview data.
